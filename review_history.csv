@@ -1,0 +1,15 @@
+timestamp,verdict,confidence,bert_prob,rule_score,lang,text
+16:12 · 07 Jun 2026,Fake,70.3,15.3,100.0,Roman Urdu,BEST PRODUCT EVER!!!! Bilkul lelo yaar!!! Zabardast quality!!! BUY NOW!!!
+16:13 · 07 Jun 2026,Fake,67.5,16.5,95.0,English,Great!!!
+16:14 · 07 Jun 2026,Genuine,85.1,42.6,0.0,Roman Urdu,Delivery thori late thi lekin product theek hai. Kaam ka hai. Price bhi theek tha.
+16:14 · 07 Jun 2026,Genuine,85.1,42.6,0.0,Roman Urdu,Delivery thori late thi lekin product theek hai. Kaam ka hai. Price bhi theek tha.
+16:22 · 07 Jun 2026,Fake,68.5,10.1,100.0,English,I am incredibly impressed by the remarkable standard of this superior item. One must purchase immediately.
+16:23 · 07 Jun 2026,Fake,74.5,27.0,100.0,Roman Urdu,Yaar yaar yaar!!! Itna acha product!!! Best best best!!! Jaldi order karo limited stock hai!!!
+22:44 · 07 Jun 2026,Genuine,97.3,7.8,0.0,English,The product is fine. Delivery was slow but it works as expected.
+22:59 · 07 Jun 2026,Genuine,87.6,35.5,0.0,Roman Urdu,Bhai sach mein acha laga. Koi jhooth nahi. Value for money hai.
+23:02 · 07 Jun 2026,Fake,67.5,16.5,95.0,English,Great!!!
+23:03 · 07 Jun 2026,Fake,70.3,15.3,100.0,Roman Urdu,BEST PRODUCT EVER!!!! Bilkul lelo yaar!!! Zabardast quality!!! BUY NOW!!!
+23:04 · 07 Jun 2026,Fake,74.5,27.0,100.0,Roman Urdu,Yaar yaar yaar!!! Itna acha product!!! Best best best!!! Jaldi order karo limited stock hai!!!
+23:24 · 07 Jun 2026,Fake,74.5,27.0,100.0,Roman Urdu,Yaar yaar yaar!!! Itna acha product!!! Best best best!!! Jaldi order karo limited stock hai!!!
+23:44 · 07 Jun 2026,Fake,68.5,10.1,100.0,English,I am incredibly impressed by the remarkable standard of this superior item. One must purchase immediately.
+23:49 · 07 Jun 2026,Genuine,97.3,7.8,0.0,English,The product is fine. Delivery was slow but it works as expected.
